@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3763
     wikipedia: http://en.wikipedia.org/wiki/Jacques_Futrelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14896#The-Diamond-Master
 gutenberg_issued: '2005-02-04'
 gutenberg_type: Text
 identifiers:
