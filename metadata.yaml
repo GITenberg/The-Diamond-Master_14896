@@ -1,0 +1,28 @@
+_repo: The-Diamond-Master_14896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Futrelle, Jacques
+    birthdate: 1875
+    deathdate: 1912
+    gutenberg_agent_id: '3763'
+    url: http://www.gutenberg.org/2009/agents/3763
+    wikipedia: http://en.wikipedia.org/wiki/Jacques_Futrelle
+description: ''
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: The Diamond Master
+url: http://www.gutenberg.org/ebooks/14896
